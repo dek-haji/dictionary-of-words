@@ -1,0 +1,11 @@
+/Users/dekhaji/workspace/csharp/dictionary/bin/Debug/netcoreapp2.2/dictionary.deps.json
+/Users/dekhaji/workspace/csharp/dictionary/bin/Debug/netcoreapp2.2/dictionary.runtimeconfig.json
+/Users/dekhaji/workspace/csharp/dictionary/bin/Debug/netcoreapp2.2/dictionary.runtimeconfig.dev.json
+/Users/dekhaji/workspace/csharp/dictionary/bin/Debug/netcoreapp2.2/dictionary.dll
+/Users/dekhaji/workspace/csharp/dictionary/bin/Debug/netcoreapp2.2/dictionary.pdb
+/Users/dekhaji/workspace/csharp/dictionary/obj/Debug/netcoreapp2.2/dictionary.csprojAssemblyReference.cache
+/Users/dekhaji/workspace/csharp/dictionary/obj/Debug/netcoreapp2.2/dictionary.csproj.CoreCompileInputs.cache
+/Users/dekhaji/workspace/csharp/dictionary/obj/Debug/netcoreapp2.2/dictionary.AssemblyInfoInputs.cache
+/Users/dekhaji/workspace/csharp/dictionary/obj/Debug/netcoreapp2.2/dictionary.AssemblyInfo.cs
+/Users/dekhaji/workspace/csharp/dictionary/obj/Debug/netcoreapp2.2/dictionary.dll
+/Users/dekhaji/workspace/csharp/dictionary/obj/Debug/netcoreapp2.2/dictionary.pdb
